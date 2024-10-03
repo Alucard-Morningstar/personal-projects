@@ -14,3 +14,6 @@ __pycache__/
 
 # Python environment files
 .env
+
+
+.venv
